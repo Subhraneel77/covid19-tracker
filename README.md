@@ -4,13 +4,14 @@ This is a Responsive Website made using HTML , CSS and Javascript.
 You can See the Present Covid Cases In all Countries Over the Globe.
 
 COUNTRIES INCLUDE :-
- 'USA'
- 'Spain'
- 'Italy'
- 'France'
- 'Germany'
- 'UK'
- 'Turkey'
+ 
+   { name: 'USA', code: 'US' },
+    { name: 'Spain', code: 'ES' },
+    { name: 'Italy', code: 'IT' },
+    { name: 'France', code: 'FR' },
+    { name: 'Germany', code: 'DE' },
+    { name: 'UK', code: 'GB' },
+    { name: 'Turkey', code: 'TR' },
     { name: 'Iran', code: 'IR' },
     { name: 'Russia', code: 'RU' },
     { name: 'Belgium', code: 'BE' },
@@ -207,3 +208,5 @@ COUNTRIES INCLUDE :-
     { name: 'Saint Pierre Miquelon', code: 'PM' },
     { name: 'Yemen', code: 'YE' },
     { name: 'China', code: 'CN' 
+    
+    ********************** COVID19 - TRACKER **************************
